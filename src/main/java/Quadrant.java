@@ -1,3 +1,7 @@
+/**
+ * https://open.kattis.com/problems/quadrant
+ */
+
 import java.util.Scanner;
 
 public class Quadrant {

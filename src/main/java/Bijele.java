@@ -1,3 +1,6 @@
+/**
+ * https://open.kattis.com/problems/bijele
+ */
 import java.util.Arrays;
 import java.util.Scanner;
 

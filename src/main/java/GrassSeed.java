@@ -1,3 +1,6 @@
+/**
+ * https://open.kattis.com/problems/grassseed
+ */
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Scanner;

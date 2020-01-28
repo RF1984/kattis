@@ -1,3 +1,6 @@
+/**
+ * https://open.kattis.com/problems/carrots
+ */
 import java.util.Scanner;
 
 public class Carrots {

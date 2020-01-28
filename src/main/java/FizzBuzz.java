@@ -1,3 +1,7 @@
+/**
+ * https://open.kattis.com/problems/fizzbuzz
+ */
+
 import java.util.Scanner;
 
 public class FizzBuzz {

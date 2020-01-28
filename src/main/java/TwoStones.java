@@ -1,3 +1,6 @@
+/**
+ * https://open.kattis.com/problems/twostones
+ */
 import java.util.Scanner;
 
 public class TwoStones {

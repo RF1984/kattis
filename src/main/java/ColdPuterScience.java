@@ -1,3 +1,6 @@
+/**
+ * https://open.kattis.com/problems/cold
+ */
 import java.util.Arrays;
 import java.util.Scanner;
 

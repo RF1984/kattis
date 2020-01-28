@@ -1,3 +1,6 @@
+/**
+ * https://open.kattis.com/problems/r2
+ */
 import java.util.Scanner;
 
 public class R2 {
