@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class ColdPuterScience {
@@ -7,10 +8,10 @@ public class ColdPuterScience {
         int tempCount = in.nextInt();
         Scanner in2 = new Scanner(System.in);
         String temps = in2.nextLine();
-        String[] temperatureList = temps.split(" ");
+        int[] tempInt = Arrays.stream(temps.split(" ")).mapToInt(Integer::parseInt).toArray();
         int negatives = 0;
         for (int i=0; i < tempCount; i++) {
-            if(Integer.parseInt(temperatureList[i]) < 0)
+            if(tempInt[i] < 0)
             {
                 negatives += 1;
             }
